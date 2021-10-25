@@ -5,7 +5,8 @@ My personal utilities which includes useful functions like the Simple Fuzzy Sear
 ![demo](https://raw.githubusercontent.com/wizenith/BillsFuzzySearch/master/demo.gif)
 
 ## Where to install
-Click the link to the extension page[https://marketplace.visualstudio.com/items?itemName=wizenith.bill-utility](https://marketplace.visualstudio.com/items?itemName=wizenith.bill-utility)
+Click the link to the extension page
+[https://marketplace.visualstudio.com/items?itemName=wizenith.bill-utility](https://marketplace.visualstudio.com/items?itemName=wizenith.bill-utility)
 
 ## Commands Available
 
