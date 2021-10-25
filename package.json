@@ -2,9 +2,9 @@
   "name": "bill-utility",
   "displayName": "BillsUtility",
   "description": "Bill's Utility - Providing Features like A Simple Fuzzy Search For Textline, or more",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "publisher": "wizenith",
-  "repository": "https://github.com/Microsoft/vscode-extension-samples/helloworld-sample",
+  "repository": "https://github.com/wizenith/BillsFuzzySearch",
   "engines": {
     "vscode": "^1.34.0"
   },
