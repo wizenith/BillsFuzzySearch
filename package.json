@@ -2,7 +2,7 @@
   "name": "bill-utility",
   "displayName": "BillsUtility",
   "description": "Bill's Utility - Providing Features like A Simple Fuzzy Search For Textline, or more",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "wizenith",
   "repository": "https://github.com/wizenith/BillsFuzzySearch",
   "engines": {

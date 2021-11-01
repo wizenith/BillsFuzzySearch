@@ -84,6 +84,9 @@ export function activate(context: vscode.ExtensionContext) {
       let sq: any;
       // let sqindex = [];
       quickPick.onDidChangeValue(async (query: string) => {
+        if(query[query.length-1]=="*"){
+          return
+        }
         if(query===sq){
           return
         }
@@ -107,7 +110,7 @@ export function activate(context: vscode.ExtensionContext) {
       quickPick.onDidHide(() => quickPick.dispose());
       quickPick.show();
       // Display a message box to the user
-      vscode.window.showInformationMessage('BILL LAB!');
+      vscode.window.showInformationMessage('BILL LAB! v1');
 
       console.log('show debug mode');
     })

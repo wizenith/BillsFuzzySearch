@@ -11,3 +11,6 @@ Click the link to the extension page
 ## Commands Available
 
 * Bill's Utility: Fuzzy Search
+
+## Caveat
+If you use this extension on WSL, it may occur a slow lag when you type out many characters. Therefore, please consider to use it on the native windows OS.
