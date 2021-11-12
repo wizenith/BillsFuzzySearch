@@ -110,7 +110,7 @@ export function activate(context: vscode.ExtensionContext) {
       quickPick.onDidHide(() => quickPick.dispose());
       quickPick.show();
       // Display a message box to the user
-      vscode.window.showInformationMessage('BILL LAB! v1');
+      // vscode.window.showInformationMessage('BILL LAB! v1');
 
       console.log('show debug mode');
     })
